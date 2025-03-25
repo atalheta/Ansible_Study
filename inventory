@@ -1,0 +1,7 @@
+[Debian12]
+ansiblelab ansible_host=192.168.1.100
+
+[Debian12:vars]
+ansible_user=talheta
+ansible_ssh_pass=talheta
+ansible_become_pass=talheta
